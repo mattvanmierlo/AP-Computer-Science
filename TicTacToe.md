@@ -2,7 +2,13 @@
 
 ##### Introduction
 For this assignment, you will make a Swing application for the game Tic-Tac-Toe. Although you could make a Tic-Tac-Toe game with a
-larger grid, we will be using a 3 x 3 Tic-Tac-Toe board for this assignment.
+larger grid, we will be using a 3 x 3 Tic-Tac-Toe board for this assignment. 
+
+Assignment Structure
+1. 2-player TicTacToe game on a 3 x 3 grid
+2. *Short Extension* 2-player TicTacToe game on a larger grid
+2. *Hard Extension* 1-player TicTacToe game on a 3 x 3 grid
+3. *Harder Extension* 1-player TicTacToe game on a larger square grid
 
 ##### Tips
 1. You might want to have a 2D array of JButton objects to simplify your getWin() function. You should be able to write a couple of loops to help you check for the different "win conditions".
