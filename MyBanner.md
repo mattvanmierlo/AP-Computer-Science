@@ -1,4 +1,4 @@
-### MyBanner Homework Assignment
+## MyBanner Homework Assignment
 
 ##### Purpose
 The purpose of the assignment is to get you all familiar with JFrames, JPanels, and JLabels. These Swing components will be used 
@@ -63,7 +63,7 @@ myLabel.setBackground(Color.lightGray);
 myLabel.setBackground(Color.white);
 myLabel.setBackground(Color.magenta);
 ```
-##### Extension Credit
+##### Extension
 1. Try adding an image into your project! The image should be .jpg or .png and should be saved in the same folder as your other Java
 project files.
 ```java
