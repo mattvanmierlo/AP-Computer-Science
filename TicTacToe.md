@@ -33,7 +33,7 @@ this.setLayout(new GridLayout(3,3));
 ```java
 JButton testButton = new JButton("Test Button");
 testButton.setName("1");
-testButton.setText("Button Clicked);
+testButton.setText("Button Clicked");
 String buttonName = testButton.getName();
 String buttonText = testButton.getText();
 ```
