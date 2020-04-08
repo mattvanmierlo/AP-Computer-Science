@@ -51,5 +51,9 @@ Your Board class should contain the following class variables (CV), class method
 4. (CM) public String getWin()
 5. (CM) public void ActionPerformed(ActionEvent e)
 
-
+##### Hints
+Popup Code
+``java
+JOptionPane.showMessageDialog(this, getWin() + " won the game!");
+```
  
